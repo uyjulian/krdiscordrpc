@@ -1,0 +1,9 @@
+[submodule "external/ncbind"]
+	path = external/ncbind
+	url = https://github.com/uyjulian/ncbind.git
+[submodule "external/discord-rpc"]
+	path = external/discord-rpc
+	url = https://github.com/uyjulian/discord-rpc.git
+[submodule "external/rapidjson"]
+	path = external/rapidjson
+	url = https://github.com/uyjulian/rapidjson.git

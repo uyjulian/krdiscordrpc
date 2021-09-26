@@ -1,0 +1,15 @@
+# krdiscordrpc
+
+This Kirikiri (2/Z) plugin provides a Discord RPC wrapper.
+
+## Building
+
+After cloning submodules and placing `ncbind` and `tp_stub` in the parent directory, a simple `make` will generate `krdiscordrpc.dll`.
+
+## How to use
+
+After `Plugins.link("krdiscordrpc.dll");` is used, the additional functions will be exposed under the `DiscordRPC` class.
+
+## License
+
+This project is licensed under the MIT license. Please read the `LICENSE` file for more information.  

@@ -4,6 +4,7 @@
 [submodule "external/discord-rpc"]
 	path = external/discord-rpc
 	url = https://github.com/uyjulian/discord-rpc.git
+	ignore = dirty
 [submodule "external/rapidjson"]
 	path = external/rapidjson
 	url = https://github.com/uyjulian/rapidjson.git
